@@ -1,4 +1,3 @@
-README
 📱 BizBook
 Flutter Mobile Application
 Student Name: Muhammad Jalal Roll No: 2698
