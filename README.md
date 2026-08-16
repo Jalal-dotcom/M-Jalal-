@@ -1,4 +1,5 @@
 📱 BizBook
+
 Flutter Mobile Application
 Student Name: Muhammad Jalal Roll No: 2698
 
@@ -8,10 +9,12 @@ BizBook is a Flutter-based mobile application developed as an academic project.
 The project demonstrates the development of a mobile application using Flutter and Dart, with a simple and user-friendly interface.
 
 🛠️ Technologies Used
+
 Flutter
 Dart
 Material Design
 Google Fonts
+
 ✨ Features
 📱 Mobile application interface
 🎨 Simple and clean UI
