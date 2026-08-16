@@ -2,8 +2,8 @@
 
 ### Flutter Mobile Application
 
-**Student Name:** Salman Sohail
-**Roll No:** 2652
+**Student Name:** Muhammad Jalal
+**Roll No:** 2698
 
 ---
 
@@ -83,8 +83,8 @@ flutter run
 
 | Information              | Details       |
 | ------------------------ | ------------- |
-| **Student Name**         | Salman Sohail |
-| **Roll No**              | 2652          |
+| **Student Name**         | Muhammad Jalal |
+| **Roll No**              | 2698        |
 | **Project Name**         | BizBook       |
 | **Framework**            | Flutter       |
 | **Programming Language** | Dart          |
@@ -99,7 +99,4 @@ The project provides a foundation for building a simple, modern, and user-friend
 
 ---
 
-### 👨‍💻 Developed By
 
-**Salman Sohail**
-**Roll No: 2652**
